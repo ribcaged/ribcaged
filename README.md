@@ -1,9 +1,18 @@
 
 <div align="center">
 
+ ‎<img width="300" height="500" alt="image" src="https://files.catbox.moe/f8l7tn.webp"/>
+
+
 [![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=F7B5E4&center=true&width=435&lines=.+.+.)]()
 
 [rentry](https://rentry.co/iwept) , [my tree](https://colormytree.me/2025/01KBGHW2ZKR7B9M15FFNVF6BXD) 
+
+16 . seth
+
+<p>do people not realize they<p></p>
+<p></p>dont have to put div every<p></p>
+<p></p>line on their readme.md?<p></p>
 
 [![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=F7B5E4&center=true&width=435&lines=%22+I+forgive+you.%22)]()
 
