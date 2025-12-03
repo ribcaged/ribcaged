@@ -8,11 +8,9 @@
 
 [rentry](https://rentry.co/iwept) , [my tree](https://colormytree.me/2025/01KBGHW2ZKR7B9M15FFNVF6BXD) 
 
-16 . seth
 
-<p>do people not realize they dont<p></p>
-<p></p>have to put div every line<p></p>
-<p></p>on their readme.md?<p></p>
+$${\color{Lightblue}16 \space . \space seth}$$
+
 
 [![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=F7B5E4&center=true&width=435&lines=%22+I+forgive+you.%22)]()
 
