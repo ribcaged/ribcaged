@@ -10,9 +10,9 @@
 
 16 . seth
 
-<p>do people not realize they<p></p>
-<p></p>dont have to put div every<p></p>
-<p></p>line on their readme.md?<p></p>
+<p>do people not realize they dont<p></p>
+<p></p>have to put div every line<p></p>
+<p></p>on their readme.md?<p></p>
 
 [![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=F7B5E4&center=true&width=435&lines=%22+I+forgive+you.%22)]()
 
