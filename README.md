@@ -6,7 +6,7 @@
 [![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=F7B5E4&center=true&width=435&lines=.+.+.)]()
 
 
-16　.　seth
+${\textsf{\color{#f7b5e4}16　.　seth}}$
 
 [rentry](https://rentry.co/iwept) 　 [my tree](https://colormytree.me/2025/01KBGHW2ZKR7B9M15FFNVF6BXD) 
 
