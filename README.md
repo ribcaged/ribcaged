@@ -26,12 +26,12 @@
 
 <img
   src="https://files.catbox.moe/uqc8d7.gif"
-  width="200"
+  width="100"
   align="center"
   />
 <img
   src="https://files.catbox.moe/gojwle.gif"
-  width="200"
+  width="100"
   align="center"
 />
 <div align="center">
