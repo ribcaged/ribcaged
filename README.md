@@ -8,7 +8,7 @@
 
 ${\textsf{\color{#f7b5e4}6teen　.　zenith　, ,　sys }}$
 
-[rentry](https://rentry.co/iwept) 　 [my tree](https://colormytree.me/2025/01KBGHW2ZKR7B9M15FFNVF6BXD) 
+[rentry](https://rentry.co/iwept) 　
 
 
 
