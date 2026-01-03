@@ -29,8 +29,7 @@ $$\color{#f7b5e4}{\text{c + h unless i tell you 2 go away}}$$
   width="300"
   align="center"
   />
-
-  <div align="center">
+  
 <img
   src="https://files.catbox.moe/gojwle.gif"
   width="200"
