@@ -7,19 +7,19 @@
 />
 <img
   src="https://files.catbox.moe/v9bren.webp"
-  width="400"
+  width="300"
   align="center"
 />
 
 <img
   src="https://files.catbox.moe/6ex8ph.webp"
-  width="400"
+  width="300"
   align="center"
 />
 
 <img
   src="https://files.catbox.moe/z9l5qk.webp"
-  width="400"
+  width="300"
   align="center"
 />
 
